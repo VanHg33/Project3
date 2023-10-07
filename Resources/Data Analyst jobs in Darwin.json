@@ -1,0 +1,842 @@
+{
+    "status": "OK",
+    "request_id": "c3df3d79-6dc3-4c16-a369-52b2aff63de4",
+    "parameters": {
+      "query": "data analyst in darwin, australia",
+      "page": 1,
+      "num_pages": 10
+    },
+    "data": [
+      {
+        "employer_name": "face2face Recruitment",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXa0SKYCviJ9jaW7rgfbyfyRTWdBc5p1TlgRQ&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "LinkedIn",
+        "job_id": "XfEi9z6HAduWz3SjAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Data Analyst",
+        "job_apply_link": "https://au.linkedin.com/jobs/view/senior-data-analyst-at-face2face-recruitment-3730097387",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6122,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://au.linkedin.com/jobs/view/senior-data-analyst-at-face2face-recruitment-3730097387",
+            "is_direct": false
+          }
+        ],
+        "job_description": "• Closing Date: 13 October 2023, 9:00 AM\n\nface2face reference: 591408\n\nLocation: Nationwide - Remote\n\nHours: Full-time\n\nContract length: 12 Months Contract + 3 x 1 Month (Pending approval)\n\nEntry requirements: Australian Citizen + Ability to obtain Baseline\n\nPay range: $95.00 – 115.00 p/h inc super\n\nAbout the role:\n\nThe Tertiary Skills and Pathways team is responsible for the unit mapping project, as part of its program of work. Unit mapping uses natural language processing techniques to create a connection between tertiary education learning materials (VET and HE units), and skills taxonomies. Unit mapping helps to identify skills taught in tertiary education, and their potential relationship to occupations and the labour market, to assist in analysis and advice on tertiary education delivery.\n\nThe team is working on a demonstration project basis with five key projects to design the end to end process of unit mapping, to continually refine the data science model, and to generate insights on the potential use of mapping outputs. The outputs of models are large, for example one university with approximately 3,000 units can have an output of approximately 30,000 skills mapped. Validation of outputs is a critical part of the mapping process to produce a model and results that are highly accurate.\n\nDuties:\n• Developing of a comprehensive internal and external validation process for very large data sets, to support improvement of data science models, and the quality of output data sent to partners. This may require an ensemble of approaches, for example statistical sampling, manual and automated approaches to validation.\n• Managing internal validation processes before outputs are sent to project partners.\n• Working closely with the data science team to provide feedback for the mapping model development.\n• Analysing complex model outputs, to derive valuable insights for reporting to project partners, including visualisation techniques.\n• Providing advice to technical services on interface design for a validation application for project partners.\n\nRequired experience/skills:\n• Demonstrated experience in data analysis and process design, to create replicable data validation processes to improve data output quality.\n• Excellent analytical skills, with strong attention to detail, and the ability to synthesise and critically analyse large volumes of structured and unstructured data.\n• Strong skills and experience in data management, in particular how data can be effectively structured, analysed, presented and communicated, to achieve high-quality outcomes.\n• Excellent communication skills, including the ability to effectively communicate key data insights visually and in written form to a range of diverse stakeholders\n• Well-developed interpersonal skills, including the ability to work effectively in a multidisciplinary setting.\n\nDesirable experience skills:\n• Experience in R Shiny, Python, SQL, anduser experience design.\n• Understanding of, and experience working with tertiary education (HE and/or VET) and/or occupation and labour market data.\n• Understanding and experience in data science, or related fields.\n• Experience operating in a policy environment.\n\nIf this sounds like the role for you, and you'd like to learn more, click apply now. f2f Recruitment team will be happy to assist you.\n\nLisa Whitehorn\n\n02 6199 5750\n\nTeamICT@f2frecruitment.com.au\n\nExcited about this role but don’t believe your experience perfectly matches all job specifications? Why not examine your transferable skills? If they position you as a strong, quality candidate, it’s well worth applying for the position. Read more on transferable skills: www.f2frecruitment.com.au/transferable-skills-more-important-than-ever\n\n#APS\n• Thank you for your interest in this position with face2face Recruitment. Our advertisements automatically stay live for 30 days, even if the position is filled beforehand. Should you find this role closed, not all is lost. If you submit your resume to us as a general expression of interest, we will consider you for other positions that suit your talent and experience. We may well have current positions to fill and will certainly consider you for future suitable roles. Submitting your resume has the added bonus of getting your name in the mix for opportunities we fill without even advertising. All you have to do is send your resume to TeamICT@f2frecruitment.com.au.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695973373,
+        "job_posted_at_datetime_utc": "2023-09-29T07:42:53.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=XfEi9z6HAduWz3SjAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-29T07:42:54.000Z",
+        "job_offer_expiration_timestamp": 1698565374,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Data analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "43911100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Peroptyx",
+        "employer_logo": null,
+        "employer_website": "http://www.peroptyx.com",
+        "employer_company_type": null,
+        "job_publisher": "Whatjobs? Jobs In The Australia",
+        "job_id": "9XdfUZa1h10FHkidAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Data Analyst - Working From Home",
+        "job_apply_link": "https://au.whatjobs.com/jobs/Data-Analyst/darwin/67466818",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.4153,
+        "apply_options": [
+          {
+            "publisher": "Whatjobs? Jobs In The Australia",
+            "apply_link": "https://au.whatjobs.com/jobs/Data-Analyst/darwin/67466818",
+            "is_direct": false
+          },
+          {
+            "publisher": "Search Australian Jobs",
+            "apply_link": "https://searchaustralianjobs.com/job/data-analyst-working-from-home-darwin-peroptyx-88917e2ce7/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Expertini | Australia Jobs Expertini",
+            "apply_link": "https://au.expertini.com/jobs/job/data-analyst-working-from-home-darwin-peroptyx-88917e2ce7/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "For thousands of years, maps have provided humans with the knowledge they need to make decisions. As a Maps Data Analyst, you will have the opportunity to provide ground truth for your town, city or country.At Peroptyx, we are looking for Data Analysts who will review mapping data for digital mapping applications. Your research capabilities will validate and ensure that the navigation of certain routes are accurate and safe. As part of this role you will verify that business names and opening hours are correct. You will check that the distance from a starting point to an end destination is listed accurately resulting in better user experiences. With this job you can plan your days around this highly flexible working schedule, work weekends or late evenings, all from the comfort of your own office. The flexibility of our roles minimizes the impact on your daily routine.So, whether you are a student looking to earn as you learn, a retiree looking for a new challenge a part-time/full time professional or a work from home parent, Peroptyx has the right role for you! Ideal Candidate\n\nFluent in English.\nExcellent research skills.\nExcellent local knowledge of your home country.\nGood understanding and general knowledge of the geography and culture of Australia.\nAnalytical mindset.\n\nJob Requirements\n\nMust be living in Australia for a minimum of 5 consecutive years.\nMust pass an online open-book exam that can verify your full understanding of the material and concepts.\nMust be willing to work a minimum of 10 hours and up to 20 hours per week depending on task availability.\nGood working knowledge of search engines, map applications and familiarity with social media platforms.\nStrong ability to learn, understand and apply multiple sets of different instructions.\nAll work must be of an independent nature.\nTechnical requirements to perform the work Access to a laptop or computer which uses:- A logon account unique to you- Anti-virus solution that is kept up to date, with regular scans performed- Only one member per household may apply NB. All products should be provided at your own expense. Benefits · Work up to 20 hours per week.· Earn a competitive rate of pay.· Develop your research skills.· Avoid the long commute.· Work from the comfort of your home office.· Enjoy the flexibility of setting your own working hours! Apply Online Today! This is a freelance, independent contractor position. Additional information:Remote Job: Fully in-personEmployment type: Part-time",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1696118400,
+        "job_posted_at_datetime_utc": "2023-10-01T00:00:00.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=9XdfUZa1h10FHkidAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-29T09:25:00.000Z",
+        "job_offer_expiration_timestamp": 1698571500,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Data analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "43911100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Power and Water Corporation",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+        "employer_website": "http://www.powerwater.com.au",
+        "employer_company_type": "Utilities",
+        "job_publisher": "Trabajo.org",
+        "job_id": "rKnAB-6gnKgd_TcSAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Manager Data and Reporting",
+        "job_apply_link": "https://au.trabajo.org/job-2370-20230927-7c9953ca8424f86268f9afa5f899812a",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5846,
+        "apply_options": [
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://au.trabajo.org/job-2370-20230927-7c9953ca8424f86268f9afa5f899812a",
+            "is_direct": false
+          },
+          {
+            "publisher": "Australian Education Jobs",
+            "apply_link": "https://www.australianeducationjobs.com.au/job/22605124/manager-data-and-reporting",
+            "is_direct": false
+          },
+          {
+            "publisher": "Joblum Australia",
+            "apply_link": "https://au.joblum.com/job/manager-data-and-reporting/8279888",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs In Australia",
+            "apply_link": "https://australia.jobradars.com/jobs/view/392995",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs In Finance",
+            "apply_link": "https://www.jobsinfinance.com.au/job/22772669/manager-data-and-reporting",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs Cast",
+            "apply_link": "https://www.jobs-cast.com/job/ico7hnmp/manager-data-and-reporting",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobilize",
+            "apply_link": "https://www.jobilize.com/job/au-darwin-manager-data-reporting-northern-territory-government-hiring",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Agency:\n\nPower and Water Corporation\n\nNumber of Vacancies:\n\n1\n\nWork Unit\n\nWater Services\n\nLocation:\n\nDarwin\n\nPrimary Objective:\n\nThis position contributes to the operational effectiveness of Water Services by leading and coordinating business planning and performance monitoring activities through the development and use of data and risk management systems and processes.\n\nSpecial Instructions:\n\nPower and Water values diversity in the workplace. Therefore, under an approved Special Measures Plan, Aboriginal and Torres Strait Islander (Aboriginal) applicants will be given priority selection, provided they meet all essential selection criteria and are suitable at the level commensurate with the position.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695830919,
+        "job_posted_at_datetime_utc": "2023-09-27T16:08:39.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=rKnAB-6gnKgd_TcSAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-04T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1696377600,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": false,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Manager",
+        "job_posting_language": "en",
+        "job_onet_soc": "11302100",
+        "job_onet_job_zone": "4",
+        "job_naics_code": "22111",
+        "job_naics_name": "Electric Power Generation"
+      },
+      {
+        "employer_name": "Department of Corporate and Digital Development",
+        "employer_logo": null,
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "SimplyHired",
+        "job_id": "T4OOYhi-W8MyWZ63AAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Reporting Analyst",
+        "job_apply_link": "https://www.simplyhired.com.au/job/-KvZJbzORV_OLjFksjbTcdd5BnMKb2uRZyAjdPYavggBKCvVs35gag",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5548,
+        "apply_options": [
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com.au/job/-KvZJbzORV_OLjFksjbTcdd5BnMKb2uRZyAjdPYavggBKCvVs35gag",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Job description\n\nAgency Department of Corporate and Digital Work unit Digital Solutions\n\nDevelopment\n\nJob title Reporting Analyst Designation Administrative Officer 6\n\nJob type Full time Duration Fixed from 01/01/2024 to 31/12/2024\n\nSalary $94,620 - $105,609 Location Darwin\n\nPosition number 68230353 RTF 277896 Closing 02/10/2023\n\nContact officer Liz Shenton, Senior Director Digital Solutions on 08 8999 2852 or liz.shenton@nt.gov.au\n\nAbout the agency https://dcdd.nt.gov.au/\n\nApply online https://jobs.nt.gov.au/Home/JobDetails?rtfId=277896\n\nAPPLICATIONS MUST INCLUDE A ONE-PAGE SUMMARY ABOUT YOU, A DETAILED RESUME AND COPIES OF YOUR TERTIARY\n\nQUALIFICATIONS.\n\nInformation for applicants – inclusion and diversity and Special Measures recruitment plans\n\nThe NTPS values diversity. The NTPS encourages people from all diversity groups to apply for vacancies and accommodates people with\n\ndisability by making reasonable workplace adjustments. If you require an adjustment for the recruitment process or job, please discuss\n\nthis with the contact officer. For more information about applying for this position and the merit process, go to the OCPE website.\n\nAboriginal applicants will be granted priority consideration for this vacancy. For more information on Special Measures plans, go to the\n\nOCPE website.\n\nPrimary objective\n\nThe Reporting analyst will deliver objective, accurate, quality-assured and timely analysis and reporting that is critical to Northern Territory\n\ngovernment agencies and meets national reporting obligations.\n\nContext statement\n\nDigital Solutions works with client agencies to deliver digital solutions that improve the quality and efficiency of government services. The\n\nwork environment is dynamic, fast-paced and results driven with high expectations of superior service delivery.\n\nKey duties and responsibilities\n\n1. Manage own time and resources and provide training, peer review, or supervision as required, within the team to effectively deliver\n\nroutine and ad hoc reporting in line with service delivery standards\n\n2. Provide advice on issues and developments related to the collection and management of data\n\n3. Facilitate continuous improvement by assisting with the implementation of systems, processes and standards enabling accurate and\n\ntimely provision of data and reports that meet evolving client requirements.\n\n4. Assist with validation functions and procedures to quality assure data and reports.\n\n5. Contribute to the overall planning of the Digital Solutions team with an excellent understanding of reporting tools and techniques\n\nwhich enhance reporting outcomes for clients\n\n6. Ensure the privacy and confidentiality of information is maintained per the client’s protocols and legislation.\n\n7. Work collaboratively with clients and peers to increase capability by providing training, resources and materials, support and advice in\n\nvarious reporting environments.\n\nSelection criteria\n\nEssential\n\n1. Demonstrated ability to manipulate, analyse, interpret and present complex data sourced from various reporting environments and\n\ndata sources.\n\n2. An excellent understanding of reporting and analytics service delivery in a large organisation with the ability to use enterprise business\n\nintelligence applications for management reporting, and sound knowledge and experience in querying databases.\n\n3. Demonstrated project management skills to support development and maintenance of standard reporting environments including\n\ngovernance and auditing requirements.\n\n4. Demonstrated ability to work with a range of stakeholders to identify and deliver organisational, national and other reporting\n\nrequirements.\n\n5. High level analytical and problem solving skills with the ability to work under pressure and prioritise commitments to meet critical\n\ndeadlines while maintaining high quality data and reporting standards.\n\n6. Highly motivated with excellent interpersonal, oral and written communications skills, with a demonstrated ability to present data and\n\ninformation to various audiences.\n\n7. Demonstrated work ethic and attitude which emulates the Department’s values of professionalism, accountability, honesty, innovation\n\nand respectfulness.\n\nDesirable\n\n1. Relevant tertiary qualifications in Data related field of study.\n\nFurther information\n\nThe successful applicant may be required to undergo a criminal history check. A criminal history will not exclude an applicant from this\n\nposition unless it is a relevant criminal history. When choosing to apply for this position, the applicant should consider the full requirements\n\nof the position in aligning to their work experience and capabilities to this role. Please refer to the Capability Framework and visit our\n\nwebsite at https://dcdd.nt.gov.au",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695055728,
+        "job_posted_at_datetime_utc": "2023-09-18T16:48:48.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=T4OOYhi-W8MyWZ63AAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Reporting analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "43911100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "NEC Corporation",
+        "employer_logo": "http://jpn.nec.com/img/top/nec_ci.png",
+        "employer_website": "http://www.nec.com",
+        "employer_company_type": "Computer Services",
+        "job_publisher": "NEC Career Site Home Page - NEC Corporation",
+        "job_id": "O2FiHg8Ua6uv2nJmAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Business Analyst",
+        "job_apply_link": "https://careers.nec.com/job/Darwin-Senior-Business-Analyst-Nort-0800/779182302/",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.8225,
+        "apply_options": [
+          {
+            "publisher": "NEC Career Site Home Page - NEC Corporation",
+            "apply_link": "https://careers.nec.com/job/Darwin-Senior-Business-Analyst-Nort-0800/779182302/",
+            "is_direct": false
+          },
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://au.linkedin.com/jobs/view/senior-business-analyst-at-mytech-consulting-services-3722475982",
+            "is_direct": false
+          },
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://au.trabajo.org/job-847-20230925-398d7576b59e1eb33fb93e4aaeb9b5bc",
+            "is_direct": false
+          },
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com.au/job/nv9m7iiZ4M-ZSUGNAk5MLwWBtYn7qsoKJRMHnG18cdGCv_D6KIxkyw",
+            "is_direct": false
+          },
+          {
+            "publisher": "BeBee Australia",
+            "apply_link": "https://au.bebee.com/job/20230925-f66128b5a985404aa353f5d41d77c7d8",
+            "is_direct": false
+          },
+          {
+            "publisher": "Talent.com",
+            "apply_link": "https://au.talent.com/view?id=7fbee27d4253",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jooble",
+            "apply_link": "https://au.jooble.org/jdp/-5151665681525045497/Senior-Business-Analyst-Darwin",
+            "is_direct": false
+          },
+          {
+            "publisher": "Whatjobs? Jobs In The Australia",
+            "apply_link": "https://au.whatjobs.com/jobs/Senior-Business-Analyst/darwin/67230660",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Our NEC Professional Service team is seeking a Business Analyst who will be responsible for a full range of business analysis tasks including requirements analysis and validation and functional design aspects, developing user stories, participating in client workshops, utilising project toolsets such as Jira and Balsamiq and liaising with software developers, testers, vendors and clients. The Business Analyst will be part of a BA team integral to the development of a custom .NET Revenue Management System build including design, development, testing and implementation activities.\n\nResponsibilities Include\n• Undertake an analysis of a revenue management business subject matter.\n• Participate in analysis and design related workshops to inform user story creation\n• Participate in other related workshops such as sprint planning and oversight\n• Utilisation of project tool sets such as Onenote, SharePoint, MS Teams, Jira and Confluence\n• Work closely with other BA’s, software developers and project customer to clarify requirements and design aspects\n• Testing involvement both informally and formally such as SIT and UAT\n• Development of test cases and execution of these\n• Contribute to the development and review of project documentation\n\nSkills & Experience\n• An understanding of As-Is and To-Be Business Process Mapping (including BPMN) concepts\n• Process design and re-engineering\n• Business impact and gap analysis\n• High level analytical and organisational skills with good attention to detail\n• Highly effective client liaison intrapersonal skills\n• Hands on experience in the end to end delivery of major business systems projects\n• Highly skilled in the use of BA related tools such as MS Visio and Balsamiq\n• Experience identifying and analysing complex legislative and / or regulatory requirements applicable to the relevant industry/work environment and their processes\n\nDesirable Skills and Experience\n• High level understanding of SQL\n• High level understanding of probability and statistics\n• SQL Entity Relationship models\n• Use of Power BI data visualisation; python optional\n• Data analysis techniques\n\nNEC Professional Services, is committed to achieving a diverse workforce and strongly encourages applications from people with disability, Aboriginal and Torres Strait Islanders and candidates from culturally diverse backgrounds.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695600000,
+        "job_posted_at_datetime_utc": "2023-09-25T00:00:00.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=O2FiHg8Ua6uv2nJmAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-06T13:30:00.000Z",
+        "job_offer_expiration_timestamp": 1696599000,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Business analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "13111100",
+        "job_onet_job_zone": "5",
+        "job_naics_code": "541512",
+        "job_naics_name": "Computer Systems Design Services"
+      },
+      {
+        "employer_name": "Northern Territory Government of Australia",
+        "employer_logo": "https://nt.gov.au/__data/assets/file/0003/1009830/ntg-logo-mono.svg",
+        "employer_website": "http://www.nt.gov.au",
+        "employer_company_type": null,
+        "job_publisher": "BeBee Australia",
+        "job_id": "WRPpVvqr8jcdNBaqAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Senior Reporting Analyst",
+        "job_apply_link": "https://au.bebee.com/job/20230929-5716a03f87d90116fbe2ab7dddd6b7b5",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5713,
+        "apply_options": [
+          {
+            "publisher": "BeBee Australia",
+            "apply_link": "https://au.bebee.com/job/20230929-5716a03f87d90116fbe2ab7dddd6b7b5",
+            "is_direct": false
+          },
+          {
+            "publisher": "Adzuna",
+            "apply_link": "https://www.adzuna.com.au/details/4328494285",
+            "is_direct": false
+          },
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://au.trabajo.org/job-847-20230922-39bde210830913797b006922fecd5434",
+            "is_direct": false
+          },
+          {
+            "publisher": "Australian Education Jobs",
+            "apply_link": "https://www.australianeducationjobs.com.au/job/22770244/senior-reporting-analyst",
+            "is_direct": false
+          },
+          {
+            "publisher": "Whatjobs? Jobs In The Australia",
+            "apply_link": "https://au.whatjobs.com/jobs/Senior-Reporting-Analyst/darwin/67099563",
+            "is_direct": false
+          },
+          {
+            "publisher": "Search Australian Jobs",
+            "apply_link": "https://searchaustralianjobs.com/job/senior-reporting-analyst-darwin-department-of-corpor-294-204970/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Expertini | Australia Jobs Expertini",
+            "apply_link": "https://au.expertini.com/jobs/job/senior-reporting-analyst-darwin-city-northern-territory-g-428ef1e0b2/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs In Finance",
+            "apply_link": "https://www.jobsinfinance.com.au/job/22770244/senior-reporting-analyst",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Primary Objective:\n\nProvide high quality, accurate and timely performance management and corporate reporting and analytics that deliver effective business insights for a portfolio of client agencies to guide and inform their policy development, operational planning and strategic and tactical decision making\n\nSpecial Instructions:\nAboriginal applicants will be granted priority consideration for this vacancy.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695956091,
+        "job_posted_at_datetime_utc": "2023-09-29T02:54:51.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=WRPpVvqr8jcdNBaqAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-07T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1696636800,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": false,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Reporting analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "43911100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Northern Territory Government of Australia",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+        "employer_website": null,
+        "employer_company_type": null,
+        "job_publisher": "Trabajo.org",
+        "job_id": "jFYGyiQWpDqW-ooLAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Reporting Analyst",
+        "job_apply_link": "https://au.trabajo.org/job-847-20230927-b326eed0b71bb8db48bc84c87696fe86",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5167,
+        "apply_options": [
+          {
+            "publisher": "Trabajo.org",
+            "apply_link": "https://au.trabajo.org/job-847-20230927-b326eed0b71bb8db48bc84c87696fe86",
+            "is_direct": false
+          },
+          {
+            "publisher": "Search Australian Jobs",
+            "apply_link": "https://searchaustralianjobs.com/job/reporting-analyst-darwin-city-northern-territory-g-8f5de8cd5c/",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Primary Objective:\nThe Reporting analyst will deliver objective, accurate, quality-assured and timely analysis and reporting that is critical to Northern Territory government agencies and meets national reporting obligations. Special Instructions: Aboriginal applicants will be granted priority consideration for this vacancy.",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695835202,
+        "job_posted_at_datetime_utc": "2023-09-27T17:20:02.000Z",
+        "job_city": "Darwin City",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=jFYGyiQWpDqW-ooLAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-04T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1696377600,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": false,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Reporting analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "43911100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Charles Darwin University",
+        "employer_logo": null,
+        "employer_website": "https://www.cdu.edu.au",
+        "employer_company_type": "Education",
+        "job_publisher": "Talent.com",
+        "job_id": "tXt7uthFIii5LHIpAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Consultant - Data And Digital",
+        "job_apply_link": "https://au.talent.com/view?id=72759c3ef546",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.533,
+        "apply_options": [
+          {
+            "publisher": "Talent.com",
+            "apply_link": "https://au.talent.com/view?id=72759c3ef546",
+            "is_direct": false
+          },
+          {
+            "publisher": "Expertini | Australia Jobs Expertini",
+            "apply_link": "https://au.expertini.com/jobs/job/consultant-data-and-digital-darwin-charles-darwin-unive-2708-3008/",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobs Cast",
+            "apply_link": "https://www.jobs-cast.com/job/8a834hql/organisational-capability-consultant-data-and-digital",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Continuing, full time appointmentProfessional Level 7 Salary - $89,845 $98,622 paPlus 17% superannuation and 6 weeks annual leaveCasuarina Campus, Darwin NT Develop and implement online learning initiatives, analyse critical workforce data and undertake and lead key People and Culture projects.\n\nAbout the Position As the Organisational Capability Consultant Data and Digital, you will develop and implement online learning initiatives and programs focusing on improving the user experience of digital platforms ensuring the user interface is intuitive and user-friendly.\n\nThe role has a strong focus on analysing critical workforce-related data to help People & Culture (P&C) and university leaders make informed decisions that optimise workforce efficiency, performance, and overall productivity and will involve undertaking and leading extensive project work including intra-P&C team projects.\n\nAbout You To be successful, you will require : A degree in a relevant qualification with at least four (4) years subsequent experience, or equivalent combination of relevant experience and / or education / training.\n\nExperience in designing, facilitating, and implementing training, programs and / or projects aimed at improving organisational effectiveness and employee engagement.\n\nExtensive experience in developing online content and programs using eLearning tools, video editing and screen recording tools to design and create innovative online learning material.\n\nExtensive experience in leading and implementing organisational development projects to benefit the workforce. High level experience in analysing workforce data related to various human resource metrics including reporting with graphics, and narration on data.\n\nDemonstrated commitment to building and managing relationships with stakeholders to ensure the highest quality of customer service, working in partnership with clients to find workable solutions.\n\nExperience in organisational strategy planning and development. Experience with online Learning Management Systems. To view the responsibilities of the role, please click on the : Position Profile.\n\nRemuneration Appointment to this role will be at Professional Level 7. The base salary will be in the range of $89,845 - $98,622 per annum.\n\nThe total remuneration package will be in the range of $105,118 - $115,387 per annum, including 17% superannuation. What's in it for you?\n\nAn employer who values your contribution to building a bigger, better and stronger university Work with a University committed to changing people's lives for the better through training, education and research Opportunities for professional development, paid study and career progression An enviable lifestyle in the spectacular Northern Territory Generous relocation assistance 17% superannuation Six weeks of paid annual leave Up to 26 weeks of paid parental leave (primary care giver), in addition to government payments (eligibility criteria apply) Recognition of prior service with another Australian University / NT Government for Long Service Leave (recognition applied to qualifying period only) Ability to negotiate transfer of leave entitlements under the Public Employment (Mobility) Act 1989 Free on-campus parking in designated areas Employee Assistance Program Salary Packaging opportunities How to Apply All applications must be received online via the 'apply' button and should include your resume and a 1-2 page cover letter outlining your interest in the role and relevant skills and experience.\n\nFor a confidential discussion about the position please contact Karen Stoddard, Deputy Director Organisational Capability and Engagement on or email .\n\nAdjustments can be made throughout the application and selection process, as well as during employment to support applicants and employees with disability.\n\nCDU's Workplace Adjustment Policy and Procedure can be found at If you would like to discuss adjustments, please contact the Recruitment Team on or email .\n\nDiversity and Inclusion At CDU we actively celebrate our diversity. We innovate, embrace new ideas, and act with courage and kindness.\n\nWe're about what we can give to the world rather than what we take, and we believe in the transformative power of education.\n\nWe work hard to make sure every member of our University community feels they truly belong. Understanding that it is through our focus on our people and leveraging our differences that will make CDU the most connected university in Australia, we are striving to ensure that our culture and our community are inclusive of all our staff, students and visitors.\n\nWe are committed to maintaining a culture where everyone feels respected, safe, encouraged to speak up and supported in achieving their professional goals.\n\nApplications from First Nations people, women at all levels, culturally and linguistically diverse people, people with disability, neurotypical and neurodiverse people, LGBTIQ+ people, people with family and caring responsibilities and people at all stages of their careers are welcomed.\n\nYou make CDU. And we want you to be exactly who you are. Applications Close : Monday 25 September 2023 #J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695427200,
+        "job_posted_at_datetime_utc": "2023-09-23T00:00:00.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=tXt7uthFIii5LHIpAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-12-24T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1703376000,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": 48,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": true,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Consultant",
+        "job_posting_language": "en",
+        "job_onet_soc": "15119900",
+        "job_onet_job_zone": "4",
+        "job_occupational_categories": [
+          "13-1161.01"
+        ],
+        "job_naics_code": "61",
+        "job_naics_name": "Education"
+      },
+      {
+        "employer_name": "Northern Territory Government",
+        "employer_logo": "https://nt.gov.au/__data/assets/file/0003/1009830/ntg-logo-mono.svg",
+        "employer_website": "http://www.nt.gov.au",
+        "employer_company_type": null,
+        "job_publisher": "BeBee Australia",
+        "job_id": "-qhh1rpFHg0LGk8RAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Integration Analyst",
+        "job_apply_link": "https://au.bebee.com/job/20230930-8704a656943bceebc62cad5a8d5d7fa4",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5619,
+        "apply_options": [
+          {
+            "publisher": "BeBee Australia",
+            "apply_link": "https://au.bebee.com/job/20230930-8704a656943bceebc62cad5a8d5d7fa4",
+            "is_direct": false
+          },
+          {
+            "publisher": "Adzuna",
+            "apply_link": "https://www.adzuna.com.au/details/4332998567",
+            "is_direct": false
+          },
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com.au/job/9a_IN3UpZac_u_QhIPbpCycrBJyMlbGVqROqLDanYv2XcPoA6erhKQ",
+            "is_direct": false
+          },
+          {
+            "publisher": "Whatjobs? Jobs In The Australia",
+            "apply_link": "https://au.whatjobs.com/jobs/Integration-Analyst/darwin/67230174",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jobilize",
+            "apply_link": "https://www.jobilize.com/job/au-darwin-integration-analyst-online-courses-australia-pty-hiring",
+            "is_direct": false
+          }
+        ],
+        "job_description": "Department of Corporate and Digital Development\n• Darwin, NTIT Source: uWorkin JOB DESCRIPTION Job descriptionAgency Department of Corporate and Digital Work unit Agency Business Systems – Justice and GeneralDevelopment GovernmentJob title Integration Analyst Designation Administrative Officer 6Job type Full time Duration OngoingSalary $94,620 $105,609 Location DarwinPosition number 43910 RTF 278436 Closing 08/10/2023Contact officer Miranda Collier on 0400 912 523 or\nthe agency online MUST INCLUDE A ONE-PAGE SUMMARY ABOUT YOU, A DETAILED RESUME AND COPIES OF YOUR TERTIARYQUALIFICATIONS.\nInformation for applicants – inclusion and diversity and Special Measures recruitment plansThe NTPS values diversity.\n\nThe NTPS encourages people from all diversity groups to apply for vacancies and accommodates people withdisability by making reasonable workplace adjustments.\nIf you require an adjustment for the recruitment process or job, please discuss this withthe contact officer. For more information about applying for this position and the merit process, go to the OCPE website. Aboriginal applicantswill be granted priority consideration for this vacancy. For more information on Special Measures plans, go to the OCPE website.\n\nPrimary objectiveUnder the direction of the Senior Integration Analyst, Plan, evaluate and configure the integration of business and enterprise leveltransformation systems within client agencies, ensuring adherence to industry application standards and that current and future systems worktogether efficiently.\n\nContext statementAgency Business Systems (ABS) – Justice and General Government (JGG) manage client agencies' core business digital systems through their lifecycle from strategy to design, development, release and deployment, operational delivery, maintenance, support and retirement.\nKey duties and responsibilities1.\n\nProject manage an allocated program of works to customise and integrate business and enterprise level systems and applications within clientagencies, including managing data migration and interface development activities.2.\n\nCollaborate with data owners and developers to create integrated data solutions ensuring an appropriate balance between useability, bestpractice, optimal data utilisation and performance needs.3.\n\nUnder the direction of the Senior Systems Analyst, proactively support systems lifecycle development through each stage of the process toensure technical environments are correctly configured, especially test, training, production and support environments.4.\n\nProvide technical advice and recommendations regarding the configuration and installation of new systems and the modification of existingones, including ongoing application development and enhancement.5.\n\nCollaborate with service providers, vendor resources and technical team members to ensure integration programs are correctly configuredand operational, and accurately document test and handover procedures for implemented solutions.6.\nInvestigate, diagnose and resolve technical problems in consultation with clients, external service providers and vendors.7. Create and maintain technical integration, design and work instruction documentation to facilitate effective ongoing management,maintenance, upgrades and audit requirements.\nSelection criteriaEssential1.\n\nExperience and Well-developed knowledge of enterprise level architecture, mainframe technology, software and environments encompassingautomation, virtualisation, RDBMS (relational database management system), networks, storage and cyber security.2.\nExperience and well-developed working knowledge of programming languages (.NET), integration, interfacing and interoperability standards,frameworks, approaches and toolsets.3.\n\nApplied understanding of business process analysis and demonstrated understanding of managing, designing and supporting integratedbusiness systems in a complex ICT environment.4.\n\nExperience and working knowledge of a range of midrange products including server management, application hosting environments,application support products, operating system administration, platform administration, database administration services and associatedinfrastructure.5.\n\nApplied knowledge of contemporary analytical and project management theory, best practice and tools (e.g., Information TechnologyInfrastructure Library ITIL, PRINCE2), including research techniques, governance requirements, risk management and evaluation.6.\nKnowledge of consultation, negotiation and conflict resolution approaches, particularly to resolve issues with multiple stakeholders.7.\n\nEffective interpersonal, verbal and written communication skills, and demonstrated success cultivating productive working relationships withpeople of diverse professional and cultural backgrounds.8.\nDemonstrated work ethic and attitude which emulates DCDD values of being professional, accountable, honest, innovative and respectful.\nDesirable1. Degree level tertiary qualification in a relevant discipline, e.g., ICT, Computer Science, Business Administration.2. Relevant ITIL qualification or similar certification.\n\nFurther informationThe selected applicant must consent to a probity check to confirm they have no significant criminal history record or associations.\nA pre-requisite for the probity check is permanent residency or Australian citizenship.\n\nThe agency operates 24 x 7 and participation in an on call roster and some out of hours work may be required.\nDepartment of Corporate and Digital Development Advanced Personnel Management\n• Darwin, NT Advanced Personnel Management\n• Darwin, NT Advanced Personnel Management\n• Durack, NT Advanced Personnel Management\n• Durack, NT Advanced Personnel Management\n• Fannie Bay, NT Promote local employment to your region, community or member organisation with a uWorkin Talent Community.\nFind out more .\n#J-18808-Ljbffr",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1696078893,
+        "job_posted_at_datetime_utc": "2023-09-30T13:01:33.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=-qhh1rpFHg0LGk8RAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-08T00:00:00.000Z",
+        "job_offer_expiration_timestamp": 1696723200,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": true
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Integration analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "15112100",
+        "job_onet_job_zone": "4"
+      },
+      {
+        "employer_name": "Charles Darwin University",
+        "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxcYncN5tyORMLz17Puuo4D_E86KaKbdwLerAu&s=0",
+        "employer_website": "https://www.cdu.edu.au",
+        "employer_company_type": "Education",
+        "job_publisher": "LinkedIn",
+        "job_id": "6MkgpqeEbGhKs6UHAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Business Analyst - Student Systems",
+        "job_apply_link": "https://au.linkedin.com/jobs/view/business-analyst-student-systems-at-charles-darwin-university-3723967157",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.6182,
+        "apply_options": [
+          {
+            "publisher": "LinkedIn",
+            "apply_link": "https://au.linkedin.com/jobs/view/business-analyst-student-systems-at-charles-darwin-university-3723967157",
+            "is_direct": false
+          },
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com.au/job/lr8lTUSmfGuEr7XLOLNDPaeceBi-g313AIO7VRc-IiBUFqWnqFDRQw",
+            "is_direct": false
+          },
+          {
+            "publisher": "Talent.com",
+            "apply_link": "https://au.talent.com/view?id=2d56556a8fc5",
+            "is_direct": false
+          },
+          {
+            "publisher": "Jooble",
+            "apply_link": "https://au.jooble.org/jdp/1453874425298959013/Business-Analyst-+-Student-Systems-Casuarina-0810%2C-NT",
+            "is_direct": true
+          }
+        ],
+        "job_description": "18-month fixed term, full time appointment\n\nProfessional Level 6/7 Salary - $83,265 to $98,622 pa\n\nPlus 17% superannuation and 6 weeks annual leave\n\nCasuarina Campus, Darwin NT\n\nAnalyse and improve business processes in relation to the student experience at CDU\n\nAbout The Position\n\nAs the Business Analyst (Student Systems), you will analyse and work to continually improve business processes and practices in relation to the student experience. Working closely with subject matter experts, University business units, stakeholders, and vendors in the elicitation of business requirements your duties will include:\n• Analysis of business processes and systems that impact on the way staff and students interact with student systems.\n• Business process mapping and implementing business process improvements across business units.\n• Problem identification, requirements elicitation and solution design\n• Incident management and coordination of user acceptance testing\n• Security, training, access, and support\n• Operating within an Agile project management environment that requires a broad understanding of ICT technologies, customer experience and business analysis methodologies.\n\nAbout You\n\nTo be successful, you will require:\n• Demonstrated project management skills and commitment to continuous improvement of processes and personal drive and self-motivation.\n• Demonstrated knowledge of business process improvement methodologies and ability to apply them across teams.\n• Demonstrated experience in conducting training, testing, and ability to manage systems access requirements within a role-based security model.\n• Verbal communication skills, with the ability to communicate complex processes or regulations, to provide clear information to customers and to communicate effectively with staff.\n• Written communication skills, with the ability to document business processes, guidelines and work instructions and develop training material for administrative staff.\n• Advanced level of technical proficiency in administrative systems and platforms, including the use of large corporate databases and MSOffice software.\n• Subject matter expertise in one or more fields of VET and/or HE student and academic administration and the legislation and regulation that governs it.\n• Experience in leading lean (or similar) business process improvement projects or programs of work.\n\nTo view the responsibilities of the role, please click on the: Position Profile.\n\nRemuneration\n\nAppointment to this role will be at Professional Level 6/7. The base salary will be in the range of $83,265 - $98,622 per annum. The total remuneration package will be in the range of $97,420 - $115,387 per annum, including 17% superannuation.\n\nWhat’s in it for you?\n• An employer who values your contribution to building a bigger, better and stronger university\n• Work with a University committed to changing people’s lives for the better through training, education and research\n• Opportunities for professional development, paid study and career progression\n• An enviable lifestyle in the spectacular Northern Territory\n• Generous relocation assistance\n• 17% superannuation\n• Six weeks of paid annual leave\n• Up to 26 weeks of paid parental leave (primary care giver), in addition to government payments (eligibility criteria apply)\n• Recognition of prior service with another Australian University / NT Government for Long Service Leave (recognition applied to qualifying period only)\n• Ability to negotiate transfer of leave entitlements under the Public Employment (Mobility) Act 1989\n• Free on-campus parking in designated areas\n• Employee Assistance Program\n• Salary Packaging opportunities\n\nHow To Apply\n\nAll applications must be received online via the ‘apply’ button and should include your resume and a cover letter outlining your interest in the role and relevant skills and experience.\n\nFor a confidential discussion about the position please contact Cara Gordon on 08 8946 6456 or email cara.gordon@cdu.edu.au\n\nAdjustments can be made throughout the application and selection process, as well as during employment to support applicants and employees with disability. CDU’s Workplace Adjustment Policy and Procedure can be found at https://policies.cdu.edu.au/view-current.php?id=191&version=1. If you would like to discuss adjustments, please contact the Recruitment Team on 08 8946 6492 or email strategicrecruitment@cdu.edu.au.\n\nDiversity and Inclusion\n\nAt CDU we actively celebrate our diversity. We innovate, embrace new ideas, and act with courage and kindness. We’re about what we can give to the world rather than what we take, and we believe in the transformative power of education. We work hard to make sure every member of our University community feels they truly belong. Understanding that it is through our focus on our people and leveraging our differences that will make CDU the most connected university in Australia, we are striving to ensure that our culture and our community are inclusive of all our staff, students and visitors. We are committed to maintaining a culture where everyone feels respected, safe, encouraged to speak up and supported in achieving their professional goals. Applications from First Nations people, women at all levels, culturally and linguistically diverse people, people with disability, neurotypical and neurodiverse people, LGBTIQ+ people, people with family and caring responsibilities and people at all stages of their careers are welcomed.\n\nYou make CDU. And we want you to be exactly who you are.\n\nApplications Close: Monday 9 October 2023",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1695276045,
+        "job_posted_at_datetime_utc": "2023-09-21T06:00:45.000Z",
+        "job_city": "Casuarina",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.372551,
+        "job_longitude": 130.88377,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=6MkgpqeEbGhKs6UHAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": "2023-10-21T06:00:46.000Z",
+        "job_offer_expiration_timestamp": 1697868046,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": true,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Business analyst",
+        "job_posting_language": "en",
+        "job_onet_soc": "13111100",
+        "job_onet_job_zone": "5",
+        "job_naics_code": "61",
+        "job_naics_name": "Education"
+      },
+      {
+        "employer_name": "Alooba",
+        "employer_logo": null,
+        "employer_website": "http://alooba.com",
+        "employer_company_type": null,
+        "job_publisher": "SimplyHired",
+        "job_id": "swLOeXhYeKzJ15LxAAAAAA==",
+        "job_employment_type": "FULLTIME",
+        "job_title": "Software Engineer",
+        "job_apply_link": "https://www.simplyhired.com.au/job/7iofyfoKOvKJs_SlxCge4o7fOs9HVkBj2TbsnJ7UMGOHUqwSxCmH6A",
+        "job_apply_is_direct": false,
+        "job_apply_quality_score": 0.5584,
+        "apply_options": [
+          {
+            "publisher": "SimplyHired",
+            "apply_link": "https://www.simplyhired.com.au/job/7iofyfoKOvKJs_SlxCge4o7fOs9HVkBj2TbsnJ7UMGOHUqwSxCmH6A",
+            "is_direct": false
+          }
+        ],
+        "job_description": "About Alooba\n\nHello! We are Alooba - a skills assessment platform for analytics, data science & data literacy. Our customers use us to better understand their people and their job candidates. We are like the ‘Moneyball’ of hiring, helping businesses focus on the things that matter and removing those that don’t. The result? A fairer, cheaper, faster and more accurate hiring process that focuses on the skills needed for the job. Our vision is to create a world where everyone can get the job they deserve. Can you help us achieve that?\n\nOur culture is very important to us. We value no-nonsense people who use common sense to get sh!t done and make it happen. You’ll put our users first, and focus on improving our product and yourself every day. You’ll be able to straddle the need to work very fast and push stuff live, while maintaining a high standard and taking care of the details. You really must care, and this can’t just be ‘a job’ for you. And when work time is over, it’s party time!\n\nOur hiring process always starts with a fair, skills-based quiz on our platform, customised for the role. This will help us both understand your skills, ensure everyone is treated fairly and you’ll get a chance to see what you’ll be building. If you ace the quiz, you’re guaranteed an interview. No matter what happens, you’ll see your score at the end of the quiz.\n\nWe are, genuinely, an equal opportunity employer. We also don’t care about things that traditionally appear on job ads like ‘years of experience’, university qualifications etc.\n\nThe Role\n\nWe currently have a small team of remote developers, however we’re looking to set up our core development office in Sydney at Fishburners. We’re looking for a set of strong senior software engineers to help bring our product to the next level, with a major overhaul of the system architecture, using a service oriented approach and expanding our feature set.\n\nYou should have experience building well structured systems and are keen to work in the fast paced startup environment with a drive to do whatever it takes to make it happen. As we are still a small company, you will have a direct impact on the success of the business. You will be the driving force behind the implementation of the features and functionalities you’ll be working on.\n\nYou will work directly with the CTO, founder and a small team of developers to build out our assessment platform to be an enterprise grade web application to serve our small but growing user-base spread across the world.\n\nOur application is built with PHP (Laravel/Lumen), PostgreSQL, and React.js and is running on AWS. We are looking for capable people that can help expand our product and build it to scale with our users. You will be responsible for designing, developing, testing and maintaining the application and supporting services.\n\nResponsibilities\n• Take ownership of features and functionality and see it through from conceptualisation to productionisation\n• Design and develop highly scalable, and maintainable code\n• Design and develop system database schemas and RESTful API interfaces\n• Thoroughly test new functionalities and existing systems\n• Manage infrastructure as code and utilize CI/CD pipelines\n\nBenefits\n• Unlimited opportunities to grow your skill set in a fast-paced startup environment.\n• No corporate bureaucracy, red tape, endless meetings and other big company nonsense - work directly with the CTO and founder on a daily basis.\n• 5 days paid learning leave per year.\n• Competitive salary and share options.\n• The chance to get in early on the next big thing, and leave your legacy.\n\nMust Have Requirements\n• A can do attitude\n• Attention to detail\n• Ability to understand and interpret user needs\n• Good problem solving skills\n• Solid understanding of Object-Oriented Programming principles and patterns\n• Solid understanding of Relational Databases and SQL\n• Strong communication skills\n\nNice to Have Requirements\n• Experience working at a start-up\n• Working knowledge of PHP\n• Working knowledge of PostgreSQL\n• A good understanding of internet security best practises\n• Experience building RESTful APIs and integrating with 3rd party APIs\n• Experience with Docker and CI/CD pipelines\n• Experience managing AWS services\n• Frontend web development experience using HTML, JavaScript, CSS, and React.js\n\nJob Types: Permanent, Full-time\n\nSalary: $90,000.00 – $140,000.00 per year\n\nWork Remotely:\n• Temporarily due to COVID-19\n\nCOVID-19 Precaution(s):\n• Remote interview process",
+        "job_is_remote": false,
+        "job_posted_at_timestamp": 1618047240,
+        "job_posted_at_datetime_utc": "2021-04-10T09:34:00.000Z",
+        "job_city": "Darwin",
+        "job_state": "NT",
+        "job_country": "AU",
+        "job_latitude": -12.463734,
+        "job_longitude": 130.84445,
+        "job_benefits": null,
+        "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+darwin,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+darwin,+australia&htidocid=swLOeXhYeKzJ15LxAAAAAA%3D%3D",
+        "job_offer_expiration_datetime_utc": null,
+        "job_offer_expiration_timestamp": null,
+        "job_required_experience": {
+          "no_experience_required": false,
+          "required_experience_in_months": null,
+          "experience_mentioned": true,
+          "experience_preferred": false
+        },
+        "job_required_skills": null,
+        "job_required_education": {
+          "postgraduate_degree": false,
+          "professional_certification": false,
+          "high_school": false,
+          "associates_degree": false,
+          "bachelors_degree": false,
+          "degree_mentioned": false,
+          "degree_preferred": false,
+          "professional_certification_mentioned": false
+        },
+        "job_experience_in_place_of_education": false,
+        "job_min_salary": null,
+        "job_max_salary": null,
+        "job_salary_currency": null,
+        "job_salary_period": null,
+        "job_highlights": {},
+        "job_job_title": "Software engineer",
+        "job_posting_language": "en",
+        "job_onet_soc": "15113200",
+        "job_onet_job_zone": "4"
+      }
+    ]
+  }

@@ -1,6 +1,6 @@
 {
     "status": "OK",
-    "request_id": "68184bc8-cfb5-4fa4-a077-a3c5d9411c27",
+    "request_id": "6dd9bc92-d17d-49bf-816d-f721c0f90998",
     "parameters": {
         "query": "data analyst in hobart, australia",
         "page": 1,
@@ -31,13 +31,18 @@
                     "is_direct": false
                 },
                 {
-                    "publisher": "SimplyHired, Australia",
+                    "publisher": "SimplyHired",
                     "apply_link": "https://www.simplyhired.com.au/job/zIQIweNpUchGa18jB36t3XLLF5MIlPigOI1y5t7vrbMjpn9ia0xbrA",
                     "is_direct": false
                 },
                 {
                     "publisher": "ZipRecruiter Australia",
                     "apply_link": "https://www.ziprecruiter.com.au/jobs/274725999-data-analyst-at-hydro-electric-corporation",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Hospitality & Tourism Jobs",
+                    "apply_link": "https://www.hospitalitytourismjobs.com.au/job/22838221/data-analyst",
                     "is_direct": false
                 },
                 {
@@ -53,11 +58,6 @@
                 {
                     "publisher": "Australian Education Jobs",
                     "apply_link": "https://www.australianeducationjobs.com.au/job/22827778/data-analyst",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Whatjobs? Jobs In The Australia",
-                    "apply_link": "https://au.whatjobs.com/jobs/Data-Analyst/hobart/67227181",
                     "is_direct": false
                 }
             ],
@@ -165,6 +165,73 @@
             "job_onet_job_zone": "4",
             "job_naics_code": "22111",
             "job_naics_name": "Electric Power Generation"
+        },
+        {
+            "employer_name": "Woolworth",
+            "employer_logo": "https://cdn0.woolworths.media/content/content/wk34-wow-wapple-logo-horizontal-1200x1200.png",
+            "employer_website": "https://www.woolworths.com.au",
+            "employer_company_type": "Retail",
+            "job_publisher": "BeBee Australia",
+            "job_id": "xTcT7nI8ZzbrImWWAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Data Analyst",
+            "job_apply_link": "https://au.bebee.com/job/20231008-0561cd38149b8eb304cd4fd0458c40f0",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5555,
+            "apply_options": [
+                {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231008-0561cd38149b8eb304cd4fd0458c40f0",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Trabajo.org",
+                    "apply_link": "https://au.trabajo.org/job-847-20231008-8d2f4b86f26ab2aca2d5e97002e10009",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "You shall find the IDA team very self-motivated, high standard and forward thinking focused, and highly hands-on.\n\nResponsibilities\n\u2022 Collaborate with team leader and senior data scientists, as well as clients and internal stakeholders to understand and document their business requirements, problems and objectives.\n\u2022 Understand data structures and business and extract and integrate required data sources for analysis according to business requirements.\n\u2022 Develop and evaluate data analytics models, algorithms, systems and solutions, including undertaking data extraction, pre-processing, modeling, evaluation, deployment, and maintenance.\n\u2022 Collaborate with senior data scientists and team leader and clients to productise and pilot analytical models for production and insight per clients required.\n\u2022 Undertake cost-benefit, forecasting and impact analysis by effective presentations of data-driven findings to clients and stakeholders.\n\u2022 Document and communicate all relevant work and work outcomes.\n\nQualifications\n\u2022 Solid background, knowledge and capabilities in statistics, mathematics, computer science, informatics, computing, or closely relevant scientific field.\n\u2022 Experienced in data-driven analytics hands-on experience with deep know-how of predictive modeling, machine learning and data mining, and relevant modeling approaches and algorithms.\n\u2022 Demonstrated capabilities to develop and evaluate statistical analysis and modeling algorithms and apply these algorithms for data-driven solutions to problems in new domains.\n\u2022 Demonstrated knowledge of SQL (data extraction and manipulation), expertise in SAS programming, and software development skills in one to several scripting languages (Python/R).\n\u2022 Demonstrated capabilities to communicate and engage with a range of stakeholder groups and technical project teams.\n\u2022 Demonstrated capabilities to work effectively as a member of a data science project team.\n\u2022 Demonstrated experience for independent problem-solving and self-motivated innovation, education and services.\n\nPowered by Webbtree",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1696748877,
+            "job_posted_at_datetime_utc": "2023-10-08T07:07:57.000Z",
+            "job_city": "Hobart",
+            "job_state": "TAS",
+            "job_country": "AU",
+            "job_latitude": -42.882607,
+            "job_longitude": 147.32571,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=xTcT7nI8ZzbrImWWAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-16T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697414400,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": "Data analyst",
+            "job_posting_language": "en",
+            "job_onet_soc": "43911100",
+            "job_onet_job_zone": "4",
+            "job_naics_code": "445110",
+            "job_naics_name": "Supermarkets and Other Grocery (except Convenience) Stores"
         },
         {
             "employer_name": "face2face Recruitment",
@@ -275,8 +342,8 @@
                     "is_direct": false
                 },
                 {
-                    "publisher": "Australian Education Jobs",
-                    "apply_link": "https://www.australianeducationjobs.com.au/job/22838072/aps6-data-analyst",
+                    "publisher": "Hospitality & Tourism Jobs",
+                    "apply_link": "https://www.hospitalitytourismjobs.com.au/job/22838072/aps6-data-analyst",
                     "is_direct": false
                 }
             ],
@@ -329,73 +396,6 @@
             "job_onet_job_zone": "4",
             "job_naics_code": "541613",
             "job_naics_name": "Marketing Consulting Services"
-        },
-        {
-            "employer_name": "Australian Bureau Of Statistics",
-            "employer_logo": "https://www.abs.gov.au/ausstats/wmdata.nsf/activeotherresource/ABS_Logo_333/$File/ABS_Logo_333.svg",
-            "employer_website": "http://www.abs.gov.au",
-            "employer_company_type": "Professional Services",
-            "job_publisher": "BeBee Australia",
-            "job_id": "AQRrkq4rXIx1tOoiAAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Data Analysts",
-            "job_apply_link": "https://au.bebee.com/job/20231002-c33de5aea069c8ecab08c78edbc7bbce",
-            "job_apply_is_direct": false,
-            "job_apply_quality_score": 0.5644,
-            "apply_options": [
-                {
-                    "publisher": "BeBee Australia",
-                    "apply_link": "https://au.bebee.com/job/20231002-c33de5aea069c8ecab08c78edbc7bbce",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Expertini | Australia Jobs Expertini",
-                    "apply_link": "https://au.expertini.com/jobs/job/data-analysts-statistical--hobart-australian-bureau-of-294-205923/amp/",
-                    "is_direct": false
-                }
-            ],
-            "job_description": "Mathematics, Statistics & Information Sciences (Science & Technology)\nGovernment - Federal (Government & Defence)\nFull time\nStarting salary from $88K; package up to $115K\nThe Australian Bureau of Statistics (ABS) is looking to recruit severalData Analystsacross multiple divisions within the agency.\nThese are permanent and temporary positions at the APS 6 classification level.\n\nSuccessful applicants can work either full-time or part-time hours out of our offices located in Adelaide, Canberra (Belconnen), Melbourne (Docklands), Brisbane, Sydney, Hobart, Geelong, Darwin and Perth.\nFlexible working arrangements including a hybrid model of working from home and in the office applies.\nAbout the areas\nFor over 100 years we have used data to produce key statistics, tell stories and inform Australia's important decisions.\n\nThe ABS is continually exploring new data sources, data collection methodologies and data analysis techniques to provide the highest quality data and statistics.\n\nThere are huge opportunities for the ABS to do more with the right people, which is why we need people with good analytical skills, sound judgement, a drive to learn and try new things, and desire to innovate through collaboration.\n\nWe are looking to fill a number of APS6 Data Analyst roles in various teams across a number of Divisions which produce key economic and social statistics.\nThese statistics are used by both governments and the private sector for a range of policy formulation and planning.\nWe currently have vacancies in the following areas:\n\nour Census and Population Division, which is responsible for the five yearly national Census of Population and Housing as well as regular releases of data on the population, international arrivals and departures, and migrants.\n\nour People and Place Division which is responsible for producing key statistics across a range of areas including education, labour, health, housing, crime, social characteristics, and climate adaption.\n\nour Economy and Environment Division which is responsible for producing economic and environmental releases such as National Accounts, International Trade, Land Accounts and Agricultural Statistics.\n\nour Statistical Production and Digital Services Division which is responsible for the design and collection of business and household data, compiling statistics from a variety of data sources (including surveys and big data), integrating data from across government and designing and managing digital products, channels, and services.\nour Statistical Infrastructure Division which is responsible for standards and classifications, geospatial services, and other statistical infrastructure assets.\n\nAbout the roles\nResponsibilities, depending on the role, may include:\ndesigning and managing surveys to meet priority information requirements\nanalysing data for input into statistical compilation and data validation, including using administrative records or transactional data\ncommunicating findings, using judgement and real-world insights\ncompiling and publishing statistical products, with a strong focus on continuous improvement\nmaintaining and applying statistical frameworks, classifications, standards and concepts that underpin the statistics\nworking with internal and external clients to develop statistical products that meet the needs of end users\ncritical thinking and reasoning; anticipating and analysing issues and developing logical conclusions.\n\nWhat we are looking for (selection criteria)\n\nWe are looking for people who are keen to widen their skill set, but have most or all the following:\n\nstrong analytical and conceptual skills, including the ability to problem solve and make decisions based on analytical evidence\nexperience working in and contributing to a high performing team to produce high quality and timely outputs, with a focus on accuracy\nability to manage a small team and develop people's data and analytical capability\nproven ability to manage and deliver projects\ngood oral, written and presentation communication skills, that can be used in an internal and external environment\nproven ability to work flexibly in a changing environment.\n\nAlso desirable are:\nrelevant work experience in a data or statistical role\nfor some roles, experience with or the ability to learn one or more statistical programming languages such as Python, R, SAS or SQL\n\nacademic qualifications in statistics, data science, mathematics, econometrics, economics, accounting, finance, psychology/social sciences, demography and other fields with a strong quantitative component.\nHow to apply\nYou will need to upload your current resume, detailing your experience relevant to these roles, provide referee details, and respond to the following:\nProvide an example of when you have led, managed, or worked on a data related project or work program. What were some of the challenges you faced and how did you overcome these? (no more than 500 words).\n\nApplications close at11:30 p.m. AEDTonWednesday 11th October. Late applications will not be accepted.\nFind out the average salary for a Data Analyst acrossAustralia\n#J-18808-Ljbffr",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1696277074,
-            "job_posted_at_datetime_utc": "2023-10-02T20:04:34.000Z",
-            "job_city": "Hobart",
-            "job_state": "TAS",
-            "job_country": "AU",
-            "job_latitude": -42.882607,
-            "job_longitude": 147.32571,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=AQRrkq4rXIx1tOoiAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-10-10T00:00:00.000Z",
-            "job_offer_expiration_timestamp": 1696896000,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": false
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": false,
-                "degree_preferred": false,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {},
-            "job_job_title": null,
-            "job_posting_language": "en",
-            "job_onet_soc": "43911100",
-            "job_onet_job_zone": "4",
-            "job_naics_code": "54191",
-            "job_naics_name": "Marketing Research and Public Opinion Polling"
         },
         {
             "employer_name": "Randstad Australia",
@@ -458,6 +458,71 @@
             "job_onet_job_zone": "4"
         },
         {
+            "employer_name": "Tasmanian Government",
+            "employer_logo": "https://www.tas.gov.au/stds/tasgov_large.gif",
+            "employer_website": "http://www.tas.gov.au",
+            "employer_company_type": null,
+            "job_publisher": "BeBee Australia",
+            "job_id": "cXmy79WskRBllkZeAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Technical Business Analyst",
+            "job_apply_link": "https://au.bebee.com/job/20231009-3d75b51c98c2bfc07c9ad03bc44af649",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5647,
+            "apply_options": [
+                {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231009-3d75b51c98c2bfc07c9ad03bc44af649",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Trabajo.org",
+                    "apply_link": "https://au.trabajo.org/job-2233-20231009-cd469d7152efec726de47307008cd1bd",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Technical Business Analyst HRIS (527257) Department of HealthHealth ICTHICT Office of the Deputy CIO Applications must be submitted by Sunday 08",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1696858488,
+            "job_posted_at_datetime_utc": "2023-10-09T13:34:48.000Z",
+            "job_city": "Hobart",
+            "job_state": "TAS",
+            "job_country": "AU",
+            "job_latitude": -42.882607,
+            "job_longitude": 147.32571,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=cXmy79WskRBllkZeAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-17T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697500800,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": false,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": "Business analyst",
+            "job_posting_language": "en",
+            "job_onet_soc": "13111100",
+            "job_onet_job_zone": "5"
+        },
+        {
             "employer_name": "Insignia Financial",
             "employer_logo": "https://www.insigniafinancial.com.au/-/media/project/dxa/insignia/insignia-header-logo-sub-pages.png?h=70&iar=0&w=180&hash=7CDCB3E1398A812E4883E83402BA71C8",
             "employer_website": "https://www.insigniafinancial.com.au",
@@ -493,6 +558,11 @@
                 {
                     "publisher": "Jobrapido.com",
                     "apply_link": "https://au.jobrapido.com/jobpreview/188059228",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Expertini | Australia Jobs Expertini",
+                    "apply_link": "https://au.expertini.com/jobs/job/senior-analyst-member-office-enablement-hobart-insignia-financial-2708-45140/",
                     "is_direct": false
                 }
             ],
@@ -540,133 +610,6 @@
             "job_naics_name": "Portfolio Management"
         },
         {
-            "employer_name": "Career Success Australia",
-            "employer_logo": null,
-            "employer_website": null,
-            "employer_company_type": null,
-            "job_publisher": "Jooble",
-            "job_id": "F1ir76QswXOmMcBCAAAAAA==",
-            "job_employment_type": "INTERN",
-            "job_title": "Data Analyst Internship",
-            "job_apply_link": "https://au.jooble.org/jdp/5424031160606872570/Data-Analyst-Internship-Hobart",
-            "job_apply_is_direct": false,
-            "job_apply_quality_score": 0.4841,
-            "apply_options": [
-                {
-                    "publisher": "Jooble",
-                    "apply_link": "https://au.jooble.org/jdp/5424031160606872570/Data-Analyst-Internship-Hobart",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Jobilize",
-                    "apply_link": "https://www.jobilize.com/job/au-hobart-data-analyst-career-success-australia-hiring-now-job-immediately",
-                    "is_direct": false
-                }
-            ],
-            "job_description": "About The Company\nStart your career with a Data Analyst Internship with a growing data science technology consulting firm. You will work with Senior Reporting Analysts and a Data Scientists to perform deep analysis using Python and SQL for real-world client projects.\n\nOverview\n\nAs a Data Analyst Intern, you will become part of the Data Science team and support a range of data-driven and reporting activities. This company is seeking talented Data Analyst Interns to support projects using Python, Machine Learning, and AI. You will also gain experience using predictive analysis tools and techniques. Your Internship as a Data Analyst will see you working with a range of company and client data and using ETL tools and PowerBI to create dashboards. This opportunity is suited to graduates wanting to start their career in Data Analytics.\n\nData Analyst Internship Duties\n\u2022 Performing data migration & data analytics under supervision from the Chief Data Scientist\n\u2022 Statistical modelling using R and Python\n\u2022 Data extraction, cleaning, and wrangling using the latest data science techniques\n\u2022 Prepare concise data reports and data visualisations for stakeholders that will help in decision-making processes\n\u2022 Present data using PowerBI and Tableau to highlight trends and findings\n\u2022 Designing and developing relational databases for collecting data\n\nWhat you will learn on your Data Analyst Internship\n\u2022 Gain hands-on practical experience in Python, PowerBI, and SQL\n\u2022 Learn AWS integration for large-scale projects\n\u2022 Build high-powered visualisations using Tableau and PowerBI\n\u2022 Enhance your core Data Analyst skills through real-world projects using Python, Machine Learning & Deep Learning capabilities\n\nHow to apply for this Data Analyst Internship?\n\nTo be considered for this Data Analyst Internship, you need to be a member of the CSA Internship Academy. To learn more about doing an Internship and to book a free Career Counselling and Internships phone consultation, click the button below. Career Training, Mentoring & Internship Program Management fees apply to become a member of the CSA Internship Academy.\n\nClick Applyto get started.",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1691020800,
-            "job_posted_at_datetime_utc": "2023-08-03T00:00:00.000Z",
-            "job_city": "Hobart",
-            "job_state": "TAS",
-            "job_country": "AU",
-            "job_latitude": -42.882607,
-            "job_longitude": 147.32571,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=F1ir76QswXOmMcBCAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": null,
-            "job_offer_expiration_timestamp": null,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": false
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": true,
-                "degree_preferred": false,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {},
-            "job_job_title": "Data analyst",
-            "job_posting_language": "en",
-            "job_onet_soc": "43911100",
-            "job_onet_job_zone": "4"
-        },
-        {
-            "employer_name": "Dxc Technology Inc.",
-            "employer_logo": "https://www.dxc.com/content/dam/dxc/projects/dxc-com/common/images/Logo.png",
-            "employer_website": "http://www.dxc.com",
-            "employer_company_type": "Computer Services",
-            "job_publisher": "BeBee Australia",
-            "job_id": "y7vUYpis_VkVlYF_AAAAAA==",
-            "job_employment_type": "FULLTIME",
-            "job_title": "Premium Analyst",
-            "job_apply_link": "https://au.bebee.com/job/20231006-0a9413c082d23b1babc5f31492116697",
-            "job_apply_is_direct": false,
-            "job_apply_quality_score": 0.563,
-            "apply_options": [
-                {
-                    "publisher": "BeBee Australia",
-                    "apply_link": "https://au.bebee.com/job/20231006-0a9413c082d23b1babc5f31492116697",
-                    "is_direct": false
-                }
-            ],
-            "job_description": "DXC Technology (\n\nNYSE:\nDXC) - where brilliant people embrace change and seize opportunities to advance their careers and amplify customer success.\nPeople are the heart of our business.\n\nWe support each other and work as a team, globally and locally to deliver excellence for our customers and colleagues.\n\nWe live in more than 70 countries, speak multiple languages and work with over 6,000 customers on almost every continent.\nWe use the power of technology to deliver technology services that move the world.\n\nWhat you will be doing:\nYou will be a senior business analyst, specialising in Workers Compensation\nExperience with or knowledge of the Victorian model & legislation\nAbility to analyse legislation, extract and document functional requirements\nDevelop tailored acceptance test specifications\nLead & manage requirements & testing phases of projects, as well as lead some projects\nInvestigate help desk issues & liaise with agents & client\nLiaise with internal team on client account\n\nEssential Job Functions\nPlans, designs and recommends business processes to improve and support business activities.\n\nAnalyzes and documents client's business requirements and processes and communicates these requirements by constructing conceptual data and process models, including data dictionaries and volume estimates from organization.\n\nCreates test scenarios and develops test plans to be used in testing the business applications in order to verify that client requirements are incorporated in to the system design.\nAssists in analyzing testing results throughout the project.\nProvides input into developing and modifying systems to meet client needs and develops business specifications to support these modifications.\nFacilitates meetings with clients to gather and document requirements and explore potential solutions.\nAssists in coordinating business analyst tasks on information technology projects and provide support to other team members.\nAssists in analyzing testing results in all phases.\nParticipates in technical reviews and inspections to verify 'intent of change' is carried out through the entire project.\nAssists in providing time estimates for project related tasks.\nAssists with developing the methods and procedures required to identify whether current business goals and objectives meet organizational needs.\n\nOther Qualifications\nInterpersonal skills to interact with customers and team members\nGood analytical and problem solving skills\nPresentation skills to present to management and customers\nPersonal computer and business solutions software skills\nGood ability to work in a team environment with multiple team members\nWillingness to travel\n\nYour working environment\nYou will be based in Melbourne. This is a hybrid role.\n\nIn alignment with our commitment to fostering a flexible and dynamic work environment, we have adopted a hybrid working approach that acknowledges the importance of in-person collaboration while recognising that the determination of your work location will be based on a range of factors to ensure both individual preferences and operational requirements are met.\nOur culture and benefits\nDXC is committed to building better futures for our customers, colleagues, environment, and communities. We take care of each other and foster a culture of inclusion, belonging and corporate citizenship. We put this to action developing and implementing societal initiatives within our Social Impact Practice . #WeAreDXC\n\nAs an employer of choice, our \"people first\" philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work.\nHow to apply & our commitment to you in return\n\nIf you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the \"Apply Now\" button to submit your resume.\nIn return, we agree to ensure a hiring process that is enjoyable, thorough, and fair.\n\nWe strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time.\nWe are an Equal Opportunity Employer\n\nDXC is proud to be an equal opportunity employer and we welcome submissions from people from all walks of life.\nWe celebrate our diversity and recognise it is the unique contributions of our people that give us our edge.\nAccommodation of special needs for qualified candidates may be considered within the framework of the DXC Accommodation Policy.\n\nIn addition, DXC Technology is committed to working with and providing reasonable accommodation to support qualified individuals with physical and mental disabilities .\nAbout UsDXC Technology (\n\nNYSE:\nDXC) helps global companies run their mission critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds.\n\nThe world's largest companies and public sector organizations trust DXC to deploy services across the Enterprise Technology Stack to drive new levels of performance, competitiveness, and customer experience.\nLearn more about how we deliver excellence for our customers and colleagues at .\n#J-18808-Ljbffr",
-            "job_is_remote": false,
-            "job_posted_at_timestamp": 1696636332,
-            "job_posted_at_datetime_utc": "2023-10-06T23:52:12.000Z",
-            "job_city": "Hobart",
-            "job_state": "TAS",
-            "job_country": "AU",
-            "job_latitude": -42.882607,
-            "job_longitude": 147.32571,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=y7vUYpis_VkVlYF_AAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-10-14T00:00:00.000Z",
-            "job_offer_expiration_timestamp": 1697241600,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": true,
-                "experience_preferred": false
-            },
-            "job_required_skills": null,
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": false,
-                "degree_preferred": false,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {},
-            "job_job_title": "Analyst",
-            "job_posting_language": "en",
-            "job_onet_soc": "13205100",
-            "job_onet_job_zone": "4",
-            "job_naics_code": "541513",
-            "job_naics_name": "Computer Facilities Management Services"
-        },
-        {
             "employer_name": "Randstad",
             "employer_logo": "https://www.randstad.com/search-app/assets/image/logo.png",
             "employer_website": "http://www.randstad.com",
@@ -705,18 +648,18 @@
                     "is_direct": false
                 },
                 {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231008-72945396a2646a57e95120cbb783ce82",
+                    "is_direct": false
+                },
+                {
                     "publisher": "SimplyHired",
                     "apply_link": "https://www.simplyhired.com.au/job/LNoVgd0ang4_8PFxeQ6lEMggArieVTGYzGIQkR7KQgRaXB211bQeeA",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Jooble",
-                    "apply_link": "https://au.jooble.org/jdp/2224747675332469990/Payroll-Officer-+-Randstad-Hobart",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Australian Education Jobs",
-                    "apply_link": "https://www.australianeducationjobs.com.au/job/22844981/payroll-analyst",
+                    "publisher": "Trabajo.org",
+                    "apply_link": "https://au.trabajo.org/job-847-20231009-cb4524f817e209ebcf8cfe2edb9d788b",
                     "is_direct": false
                 }
             ],
@@ -785,11 +728,6 @@
                     "publisher": "LinkedIn",
                     "apply_link": "https://au.linkedin.com/jobs/view/senior-finance-analyst-at-tasnetworks-3728181975",
                     "is_direct": false
-                },
-                {
-                    "publisher": "Whatjobs? Jobs In The Australia",
-                    "apply_link": "https://au.whatjobs.com/jobs/Senior-Finance-Analyst/hobart/67141009",
-                    "is_direct": false
                 }
             ],
             "job_description": "About The Role\n\nIn this role, you will become a trusted and relied upon financial analyst whose primary objective is to elevate the team's expertise in regulatory financial modelling. By aiming to foster a deeper understanding of financial regulations and their impact on the organisation's operations and overall financial position. This capability empowers the team to offer invaluable insights into the commercial and financial dimensions of regulatory compliance, ultimately enhancing the quality of regulatory reporting and decision-making processes.\n\nConcurrently, there is a focus on enhancing the team's corporate and financial modelling, a pivotal component in supporting TasNetworks strategic decision-making. Financial models serve as indispensable tools for forecasting, conducting scenario analyses, and evaluating the financial ramifications of strategic objectives. Additionally, the role provides support for vital team-managed processes, encompassing treasury and debt management, and extending assistance to the Investment Governance Committee, which oversees the businesses major investment decisions. This also includes creating, reviewing and refining models using a DCF approach for potential new deals for the business.\n\nFurthermore, data gathering and validation are central to the role's responsibilities and are essential for providing meaningful and insightful analysis.\n\nLastly, the role encompasses the development and upkeep of a comprehensive long-term financial model, which serves as a strategic compass for long-term financial planning and decision-making.\n\nAbout Us\n\nAt TasNetworks, we are proud to be the leading provider of electricity transmission and distribution services in Tasmania. With our unwavering commitment to safety, reliability, and customer satisfaction, we deliver a superior electricity supply to over 285,000 residential, commercial, and industrial customers. Our core values and forward-thinking approach make us the trusted brand for all your energy needs.\n\nBy joining TasNetworks, you will experience the difference of a company that puts customers first, values safety above all, unifies in the face of challenges, and embraces diversity and forward thinking. Together, we are powering a bright future for Tasmania.\n\nAbout You\n\nTo be successful in this role, it is imperative to embody TasNetworks' Core Capabilities, which form the cornerstone of all positions within the organisation.\n\nHaving a solid foundation in business, commerce, accounting, or a related professional field, coupled with a demonstrated period of relevant experience, is essential.\n\nProficiency in Excel, including the ability to construct intricate financial models, is crucial. Moreover, a deep understanding of valuation techniques pertaining to the evaluation of future investment opportunities, including mergers and acquisitions, is highly valuable.\n\nSuccess in this role hinges on possessing robust analytical, problem-solving, and critical thinking skills, allowing for the transformation of data and complex analysis into comprehensible insights that facilitate informed decision-making processes. This also includes the ability to summarise data efficiently in order to present to various stakeholders across the business, including executives and board members.\n\nWhat's on offer\n\nThis is a full time permanent opportunity based at our Lenah Valley Office in the South of the state. At TasNetworks we want to power a bright future for our people, our community and our customers. We offer a supportive work environment where safety is at the heart of everything we do. We offer our team excellent benefits including\n\u2022 Great professional development opportunities\n\u2022 Flexible work arrangements\n\u2022 Paid volunteer days\n\u2022 Free onsite parking\n\u2022 Onsite gyms (or gym rebate if unavailable)\n\u2022 All the equipment you'll need to be successful\n\nWe are proud to be work180 accredited, check us out\n\nHow to apply\n\nIf this role and working at TasNetworks is of interest we look forward to hearing from you. TasNetworks is an Equal Opportunity employer and is committed to responding to every applicant. We encourage applications from all members of the community, including people of Aboriginal and Torres Strait Islander descent, culturally and linguistically diverse backgrounds and mature aged people. Please ensure you attach a cover letter outlining how your skills and experience are aligned with this role, and an up to date resume. For more information about this opportunity and to acquire a position description, please click\n\nApplications close 11:59pm Sunday 15th October 2023\n\nFor further information about the role, please contact\n\nTo be eligible for this position, you are required to have Australian citizenship, permanent residence or a current valid visa that allows you to fulfil the requirements of this role.",
@@ -802,7 +740,7 @@
             "job_latitude": -42.882607,
             "job_longitude": 147.32571,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=tyHwSpYUrzEwXJe1AAAAAA%3D%3D",
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=tyHwSpYUrzEwXJe1AAAAAA%3D%3D",
             "job_offer_expiration_datetime_utc": "2023-10-26T10:54:17.000Z",
             "job_offer_expiration_timestamp": 1698317657,
             "job_required_experience": {
@@ -834,6 +772,96 @@
             "job_onet_job_zone": "4",
             "job_naics_code": "221122",
             "job_naics_name": "Electric Power Distribution"
+        },
+        {
+            "employer_name": "Plant Health Australia",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "BeBee Australia",
+            "job_id": "FEFN-pEnLUyvb7bNAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Finance Analyst",
+            "job_apply_link": "https://au.bebee.com/job/20231007-b44e50d0541cfc6fa1654f885c94e9e4",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5597,
+            "apply_options": [
+                {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231007-b44e50d0541cfc6fa1654f885c94e9e4",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com.au/job/zyqR__8VM5laCYxLIRqqWRAZelliQgHlOY8-Kl8Ek81qznu1nb4Vqw",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://at.trabajo.org/stellenangebot-648-20231007-19e3534ddb4b9c58ee42f20d24d9b59e",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://au.talent.com/view?id=25d0b38c31b4",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Hospitality & Tourism Jobs",
+                    "apply_link": "https://www.hospitalitytourismjobs.com.au/job/22909514/finance-analyst-accounting",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobrapido.com",
+                    "apply_link": "https://au.jobrapido.com/jobpreview/188171961",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/au-hobart-finance-analyst-accounting-709611-online-courses-australia",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Department of Natural Resources and Environment TAS- Hobart, TAS\nAccounting\n\nSource:\nuWorkin\n\nJOB DESCRIPTION\n\nThe Department of Natural Resources and Environment Tasmania is committed to investing in its people to ensure a sustainable and successful organisation through a positive workplace culture and highly capable employees.\nWe are a diverse and inclusive workplace and understand the importance of flexible working arrangements. Talk to us about what flexibility could look like for you.\nHours per fortnight\n73.50 (minimum 58.80 hours, by negotiation)\nDuties\nThe purpose of the role is to:\n\nContribute to the day-to-day operations of the accounting section as well as undertake complex accounting tasks such as financial reporting requirements, including financial statements and taxation reporting.\nContribute to the development and application of policies, procedures, guidelines, and systems to support internal controls, taxation compliance and external financial reporting for the Department; and\n\nProvide advice, analysis and technical support on contemporary financial management and processes and maintain effective relationships with Business Units and external stakeholders.\nEssential Requirements\nPre-employment\n\nThe Head of the State Service has determined that the person nominated for this position is to satisfy a pre-employment check before taking up the appointment, promotion, or transfer.\nThe following check is to be conducted:\nConviction check for Crimes involving Dishonesty.\n\nDesirable Requirements\n\nA Bachelor's Degree in business or similar relevant to the duties to be undertaken, as provided by a university with membership of the Australian Society of CPAs or the Chartered Accountants Australia and New Zealand or other professional accounting body.\nDownload the Statement of Duties and any Associated Documents\nSOD - 70961- Finance Analyst (Accounting) - Band 5.docx\nSOD - 70961- Finance Analyst (Accounting) - Band 5.pdf\nAdvice to\nAdvice to\nHow to apply\n\nTo apply, please provide a Short Form Application which is a 1-2 page covering letter outlining your experience, skills and knowledge as they relate to the Statement of Duties, and a copy of your current Resum\u00e9/CV.\nPlease note that we do not require a separate statement addressing the selection criteria.\nPlease apply online by clicking the blue \"Apply Now\" button.\nRefer to the 'Advice to Applicants' document for further information.\nIf you are unable to submit your application online, please contact Recruitment on\n.\n\nFor more information on the position please contact:\nAdrian Pearce\nManager (Finance)\n\u2022 *0400 714 **\n\nDepartment of Natural Resources and Environment TAS\nAdvanced Personnel Management - Hobart, TAS\nAdvanced Personnel Management - National Park, TAS\nAdvanced Personnel Management - National Park, TAS\nAdvanced Personnel Management - Launceston, TAS\nAdvanced Personnel Management - Launceston, TAS\nAdvanced Personnel Management - Rosny Park, TAS\nPromote local employment to your region, community or member organisation with a uWorkin Talent Community. Find out more .\n#J-18808-Ljbffr",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1696714778,
+            "job_posted_at_datetime_utc": "2023-10-07T21:39:38.000Z",
+            "job_city": "Hobart",
+            "job_state": "TAS",
+            "job_country": "AU",
+            "job_latitude": -42.882607,
+            "job_longitude": 147.32571,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=FEFN-pEnLUyvb7bNAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-15T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697328000,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": true,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": "Finance analyst",
+            "job_posting_language": "en",
+            "job_onet_soc": "13205100",
+            "job_onet_job_zone": "4"
         },
         {
             "employer_name": "Insignia Financial",
@@ -896,6 +924,153 @@
             "job_onet_job_zone": "5",
             "job_naics_code": "523920",
             "job_naics_name": "Portfolio Management"
+        },
+        {
+            "employer_name": "Randstad",
+            "employer_logo": "https://www.randstad.com/search-app/assets/image/logo.png",
+            "employer_website": "http://www.randstad.com",
+            "employer_company_type": "Consulting",
+            "job_publisher": "BeBee Australia",
+            "job_id": "jkPwvJlhgivnqSCzAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Data Engineering",
+            "job_apply_link": "https://au.bebee.com/job/20231008-4791ab8ce0e37803305a39b59c17c266",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.5514,
+            "apply_options": [
+                {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231008-4791ab8ce0e37803305a39b59c17c266",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Trabajo.org",
+                    "apply_link": "https://au.trabajo.org/job-847-20230930-41b4fbfbc79a7026d23c6144aef8fa4f",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "APS6 Data Analyst\n\nAs an APS 6 Data Analyst, you'll use your expertise in data analysis, modelling techniques and business knowledge to address business problems and support data-driven decision making.\n\nYou'll use a variety of tools, languages and technical knowledge to research, extract, analyse and interpret data and results with a strong commitment to quality assurance, re-usability and curation of data sources and solutions. You'll be accountable for organising your workflow and make decisions concerning your work area and team plans. You may be required to lead and manage the work of junior employees and be responsible for reviewing the quality of their work\n\nRequirements:\n\n\u2022 Expertise in using a variety of tools including different dialects of SQL (Teradata, MSSQL, Postgres or similar) and visualisation tools (PowerBI, COGNOS or similar)\n\n\u2022 Skilled in extracting, analysing and interpreting data, delivering complex and technical results through logical, succinct reports and presentations\n\n\u2022 Experience or an understanding in using version control software (Git, GitLab, TFS)\n\n\u2022 Present complex and abstract information in an accessible and effective format suitable for their target audience\n\n\u2022 Exercise sound judgment to provide detailed technical, professional, and policy advice in relation to complex problems and assist in strategic planning, program and project management and policy development\n\n\u2022 Equip team members with their technical expertise and guidance to achieve a positive client experience.\n\nQualifications in a related discipline (i.e. Computer Science, IT, Mathematics, Statistics, etc.) would be highly regarded but not essential. Certifications in AWS, Azure, Power BI and Teradata would be looked at favourably.\n\nSince this is a Federal Government Opportunity, it is a requirement for the candidate to be an Australian citizen.\n\nApply directly using the link provided or by submitting your CV. For confidential discussion, please don't hesitate to contact me:\n\nAt Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1696734189,
+            "job_posted_at_datetime_utc": "2023-10-08T03:03:09.000Z",
+            "job_city": "Hobart",
+            "job_state": "TAS",
+            "job_country": "AU",
+            "job_latitude": -42.882607,
+            "job_longitude": 147.32571,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=jkPwvJlhgivnqSCzAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-16T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697414400,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": false,
+                "degree_preferred": false,
+                "professional_certification_mentioned": true
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": "Data engineering",
+            "job_posting_language": "en",
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5",
+            "job_naics_code": "541613",
+            "job_naics_name": "Marketing Consulting Services"
+        },
+        {
+            "employer_name": "Career Success Australia",
+            "employer_logo": null,
+            "employer_website": null,
+            "employer_company_type": null,
+            "job_publisher": "BeBee Australia",
+            "job_id": "iXaangDpaEoU84sSAAAAAA==",
+            "job_employment_type": "FULLTIME",
+            "job_title": "Financial Analyst/Trader",
+            "job_apply_link": "https://au.bebee.com/job/20231008-f1b145f0a8651399f66b852e07bed3ae",
+            "job_apply_is_direct": false,
+            "job_apply_quality_score": 0.567,
+            "apply_options": [
+                {
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231008-f1b145f0a8651399f66b852e07bed3ae",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs Trabajo.org",
+                    "apply_link": "https://at.trabajo.org/stellenangebot-648-20231007-ba820de349fde45d31e4ccd978441378",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Talent.com",
+                    "apply_link": "https://au.talent.com/view?id=7120fb5a713c",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Whatjobs? Jobs In The Australia",
+                    "apply_link": "https://au.whatjobs.com/jobs/Financial-Analyst-Trader/hobart/67712093",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Expertini | Australia Jobs Expertini",
+                    "apply_link": "https://au.expertini.com/jobs/job/financial-analyst-trader-hobart-career-success-austr-2708-49020/amp/",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Leading Mid-Tier Financial Investment company is offering a 12-week Financial Analyst/Trader Internship to Banking & Finance students and graduates. This firm provides financial research data, insights, and trading analysis to corporate clients in investment firms. During your Financial Analyst/Trader Internship, you will work with some of Australia's most experienced finance executives. Get one-to-one career guidance from leading finance managers too during your 12 weeks of Internship.\nFinancial Analyst/Trader Internship Roles and Responsibilities?\n\nAnalyse global equity, foreign exchange and derivatives markets.\nRotate through our divisions of responsibility and provide ideas to grow and improve the business.\nResearch, propose ideas and solutions, and present findings to the Senior Management Team.\nAssist in creating performance reports, specifically for financial reporting.\nWhat you will learn during the Financial Analyst/Trader Internship?\n\nEssential Financial Market Software Systems used for financial analysis projects.\nHands-on finance experience with exposure in the understanding of analytics and reporting.\nSkills in Project Management to assist in data and analytics reporting projects.\n\nHow to apply for the Financial Analyst/Trader Internship?\n\nTo be considered for this finance internship, you need to be a member of the CSA Internship Academy.\n\nTo learn more about our Finance Internships and to book afree Career Counselling and Internships phone consultation, click the button below.\nCareer Training, Mentoring & Internship Program Management fees apply to become a member of the CSA Internship Academy.\nClickApplyto get started.\n#J-18808-Ljbffr",
+            "job_is_remote": false,
+            "job_posted_at_timestamp": 1696733430,
+            "job_posted_at_datetime_utc": "2023-10-08T02:50:30.000Z",
+            "job_city": "Hobart",
+            "job_state": "TAS",
+            "job_country": "AU",
+            "job_latitude": -42.882607,
+            "job_longitude": 147.32571,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=iXaangDpaEoU84sSAAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-16T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697414400,
+            "job_required_experience": {
+                "no_experience_required": false,
+                "required_experience_in_months": null,
+                "experience_mentioned": true,
+                "experience_preferred": false
+            },
+            "job_required_skills": null,
+            "job_required_education": {
+                "postgraduate_degree": false,
+                "professional_certification": false,
+                "high_school": false,
+                "associates_degree": false,
+                "bachelors_degree": false,
+                "degree_mentioned": true,
+                "degree_preferred": false,
+                "professional_certification_mentioned": false
+            },
+            "job_experience_in_place_of_education": false,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_currency": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_job_title": null,
+            "job_posting_language": "en",
+            "job_onet_soc": "13205100",
+            "job_onet_job_zone": "4"
         },
         {
             "employer_name": "UpGuard",
@@ -963,47 +1138,42 @@
             "job_onet_job_zone": "5"
         },
         {
-            "employer_name": "Randstad",
-            "employer_logo": "https://www.randstad.com/search-app/assets/image/logo.png",
-            "employer_website": "http://www.randstad.com",
-            "employer_company_type": "Consulting",
-            "job_publisher": "Energy Jobline",
-            "job_id": "NNJna7J5NRg4RTjHAAAAAA==",
+            "employer_name": "Dxc Technology Inc.",
+            "employer_logo": "https://www.dxc.com/content/dam/dxc/projects/dxc-com/common/images/Logo.png",
+            "employer_website": "http://www.dxc.com",
+            "employer_company_type": "Computer Services",
+            "job_publisher": "BeBee Australia",
+            "job_id": "y7vUYpis_VkVlYF_AAAAAA==",
             "job_employment_type": "FULLTIME",
-            "job_title": "Data Engineering & Warehousing - Randstad",
-            "job_apply_link": "https://www.energyjobline.com/job/data-engineering-warehousing-randstad-17696671",
+            "job_title": "Premium Analyst",
+            "job_apply_link": "https://au.bebee.com/job/20231006-0a9413c082d23b1babc5f31492116697",
             "job_apply_is_direct": false,
-            "job_apply_quality_score": 0.5599,
+            "job_apply_quality_score": 0.563,
             "apply_options": [
                 {
-                    "publisher": "Energy Jobline",
-                    "apply_link": "https://www.energyjobline.com/job/data-engineering-warehousing-randstad-17696671",
+                    "publisher": "BeBee Australia",
+                    "apply_link": "https://au.bebee.com/job/20231006-0a9413c082d23b1babc5f31492116697",
                     "is_direct": false
                 },
                 {
-                    "publisher": "Jooble",
-                    "apply_link": "https://au.jooble.org/jdp/8551178092821954333/Data-Engineering-%26-Warehousing-+-Randstad-Hobart",
-                    "is_direct": false
-                },
-                {
-                    "publisher": "Whatjobs? Jobs In The Australia",
-                    "apply_link": "https://au.whatjobs.com/jobs/Data-Engineering/hobart/67461517",
+                    "publisher": "Talent.com",
+                    "apply_link": "https://au.talent.com/view?id=7853b5700b32",
                     "is_direct": false
                 }
             ],
-            "job_description": "APS6 Data Analyst As an APS 6 Data Analyst, you\u2019ll use your expertise in data analysis, modelling techniques and business knowledge to address business problems and support data-driven decision making. You\u2019ll use a variety of tools, languages and technical knowledge to research, extract, analyse and interpret data and results with a strong commitment to quality assurance, re-usability and curation of data sources and solutions. You\u2019ll be accountable for organising your workflow and make decisions concerning your work area and team plans. You may be required to lead and manage the work of junior employees and be responsible for reviewing the quality of their work Requirements: \u2022 Expertise in using a variety of tools including different dialects of SQL (Teradata, MSSQL, Postgres or similar) and visualisation tools (PowerBI, COGNOS or similar) \u2022 Skilled in extracting, analysing and interpreting data, delivering complex and technical results through logical, succinct reports and presentations \u2022 Experience or an understanding in using version control software (Git, GitLab, TFS) \u2022 Present complex and abstract information in an accessible and effective format suitable for their target audience \u2022 Exercise sound judgment to provide detailed technical, professional, and policy advice in relation to complex problems and assist in strategic planning, program and project management and policy development \u2022 Equip team members with their technical expertise and guidance to achieve a positive client experience. Qualifications in a related discipline (i.e. Computer Science, IT, Mathematics, Statistics, etc.) would be highly regarded but not essential. Certifications in AWS, Azure, Power BI and Teradata would be looked at favourably. Since this is a Federal Government Opportunity, it is a requirement for the candidate to be an Australian citizen. Apply directly using the link provided or by submitting your CV. For confidential discussion, please don't hesitate to contact me: sara.alonso@randstad.com.au At Randstad, we are passionate about providing equal employment opportunities and embracing diversity to the benefit of all. We actively encourage applications from any background.",
+            "job_description": "DXC Technology (\n\nNYSE:\nDXC) - where brilliant people embrace change and seize opportunities to advance their careers and amplify customer success.\nPeople are the heart of our business.\n\nWe support each other and work as a team, globally and locally to deliver excellence for our customers and colleagues.\n\nWe live in more than 70 countries, speak multiple languages and work with over 6,000 customers on almost every continent.\nWe use the power of technology to deliver technology services that move the world.\n\nWhat you will be doing:\nYou will be a senior business analyst, specialising in Workers Compensation\nExperience with or knowledge of the Victorian model & legislation\nAbility to analyse legislation, extract and document functional requirements\nDevelop tailored acceptance test specifications\nLead & manage requirements & testing phases of projects, as well as lead some projects\nInvestigate help desk issues & liaise with agents & client\nLiaise with internal team on client account\n\nEssential Job Functions\nPlans, designs and recommends business processes to improve and support business activities.\n\nAnalyzes and documents client's business requirements and processes and communicates these requirements by constructing conceptual data and process models, including data dictionaries and volume estimates from organization.\n\nCreates test scenarios and develops test plans to be used in testing the business applications in order to verify that client requirements are incorporated in to the system design.\nAssists in analyzing testing results throughout the project.\nProvides input into developing and modifying systems to meet client needs and develops business specifications to support these modifications.\nFacilitates meetings with clients to gather and document requirements and explore potential solutions.\nAssists in coordinating business analyst tasks on information technology projects and provide support to other team members.\nAssists in analyzing testing results in all phases.\nParticipates in technical reviews and inspections to verify 'intent of change' is carried out through the entire project.\nAssists in providing time estimates for project related tasks.\nAssists with developing the methods and procedures required to identify whether current business goals and objectives meet organizational needs.\n\nOther Qualifications\nInterpersonal skills to interact with customers and team members\nGood analytical and problem solving skills\nPresentation skills to present to management and customers\nPersonal computer and business solutions software skills\nGood ability to work in a team environment with multiple team members\nWillingness to travel\n\nYour working environment\nYou will be based in Melbourne. This is a hybrid role.\n\nIn alignment with our commitment to fostering a flexible and dynamic work environment, we have adopted a hybrid working approach that acknowledges the importance of in-person collaboration while recognising that the determination of your work location will be based on a range of factors to ensure both individual preferences and operational requirements are met.\nOur culture and benefits\nDXC is committed to building better futures for our customers, colleagues, environment, and communities. We take care of each other and foster a culture of inclusion, belonging and corporate citizenship. We put this to action developing and implementing societal initiatives within our Social Impact Practice . #WeAreDXC\n\nAs an employer of choice, our \"people first\" philosophy means we offer competitive remuneration, benefits, training and career opportunities that reflect our commitment to improving the lives of our employees, and the communities in which we live and work.\nHow to apply & our commitment to you in return\n\nIf you would like to be part of a culture that drives innovation, delivers results, rewards performance and encourages ideas, then please press the \"Apply Now\" button to submit your resume.\nIn return, we agree to ensure a hiring process that is enjoyable, thorough, and fair.\n\nWe strive to provide an environment that lets you thrive and show off the very best version of yourself, while learning about us at the same time.\nWe are an Equal Opportunity Employer\n\nDXC is proud to be an equal opportunity employer and we welcome submissions from people from all walks of life.\nWe celebrate our diversity and recognise it is the unique contributions of our people that give us our edge.\nAccommodation of special needs for qualified candidates may be considered within the framework of the DXC Accommodation Policy.\n\nIn addition, DXC Technology is committed to working with and providing reasonable accommodation to support qualified individuals with physical and mental disabilities .\nAbout UsDXC Technology (\n\nNYSE:\nDXC) helps global companies run their mission critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds.\n\nThe world's largest companies and public sector organizations trust DXC to deploy services across the Enterprise Technology Stack to drive new levels of performance, competitiveness, and customer experience.\nLearn more about how we deliver excellence for our customers and colleagues at .\n#J-18808-Ljbffr",
             "job_is_remote": false,
-            "job_posted_at_timestamp": 1696118400,
-            "job_posted_at_datetime_utc": "2023-10-01T00:00:00.000Z",
+            "job_posted_at_timestamp": 1696636332,
+            "job_posted_at_datetime_utc": "2023-10-06T23:52:12.000Z",
             "job_city": "Hobart",
             "job_state": "TAS",
             "job_country": "AU",
             "job_latitude": -42.882607,
             "job_longitude": 147.32571,
             "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=NNJna7J5NRg4RTjHAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": "2023-11-30T00:00:00.000Z",
-            "job_offer_expiration_timestamp": 1701302400,
+            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=data+analyst+in+hobart,+australia&start=10&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=data+analyst+in+hobart,+australia&htidocid=y7vUYpis_VkVlYF_AAAAAA%3D%3D",
+            "job_offer_expiration_datetime_utc": "2023-10-14T00:00:00.000Z",
+            "job_offer_expiration_timestamp": 1697241600,
             "job_required_experience": {
                 "no_experience_required": false,
                 "required_experience_in_months": null,
@@ -1019,7 +1189,7 @@
                 "bachelors_degree": false,
                 "degree_mentioned": false,
                 "degree_preferred": false,
-                "professional_certification_mentioned": true
+                "professional_certification_mentioned": false
             },
             "job_experience_in_place_of_education": false,
             "job_min_salary": null,
@@ -1027,12 +1197,12 @@
             "job_salary_currency": null,
             "job_salary_period": null,
             "job_highlights": {},
-            "job_job_title": null,
+            "job_job_title": "Analyst",
             "job_posting_language": "en",
-            "job_onet_soc": "15113200",
+            "job_onet_soc": "13205100",
             "job_onet_job_zone": "4",
-            "job_naics_code": "541613",
-            "job_naics_name": "Marketing Consulting Services"
+            "job_naics_code": "541513",
+            "job_naics_name": "Computer Facilities Management Services"
         }
     ]
 }
